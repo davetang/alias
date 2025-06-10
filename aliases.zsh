@@ -1,0 +1,5 @@
+alias cat='bat'
+alias vi='nvim'
+alias ll='ls -lhrt'
+alias glances='glances --disable-unicode'
+alias find_3mo_dir='find . -maxdepth 1 -type d -mtime +89'
